@@ -6,3 +6,5 @@ Guacamole
 - a pinch of salt 
 - 3 chiles 
 - 1 cebolla 
+- pepper
+- 3 cilantro leaves
